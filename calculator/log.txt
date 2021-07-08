@@ -1,0 +1,4 @@
+Sumar = 4 + 2 = 6
+Restar = 4 - 2 = 2
+Multiplicar = 4 * 2 = 8
+Dividir = 4 / 2 =2
